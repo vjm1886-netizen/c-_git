@@ -46,7 +46,7 @@
             this.richTextBox1.ForeColor = System.Drawing.Color.Firebrick;
             this.richTextBox1.Location = new System.Drawing.Point(74, 70);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(240, 258);
+            this.richTextBox1.Size = new System.Drawing.Size(248, 259);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "Hello!! My self Vidhi Mehta";
             // 
